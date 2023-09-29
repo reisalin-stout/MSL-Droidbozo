@@ -1,0 +1,16 @@
+{
+  "name": "msl-droidbozo",
+  "version": "1.0.0",
+  "description": "NodeJS auto-play assistant",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "exports": "./main.js",
+  "author": "reisalin-stout",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.22.10"
+  }
+}
